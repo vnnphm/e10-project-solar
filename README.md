@@ -53,7 +53,7 @@ This project implements a **solar-powered environmental monitoring system** usin
 
 ## Wiring Diagram
 
-![Wiring Diagram](<img width="2100" height="1624" alt="image" src="https://github.com/user-attachments/assets/ab70ab02-623b-4ef0-b2d5-077be2637e55" />)
+![Wiring Diagram](Screenshot_2026-03-16_at_10.05.34_AM.png)
 
 
 ---

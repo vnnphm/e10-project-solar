@@ -61,7 +61,8 @@ This project implements a **solar-powered environmental monitoring system** usin
 ## 3D-Printed Enclosure
 
 
-![3D Enclosure](<img width="911" height="1048" alt="image" src="https://github.com/user-attachments/assets/53da1004-e744-4b40-81e2-74c76ca4764a" />)
+![3D Enclosure](image32131.png)
+[3D Enclosure 2](image32131231231.png)
 
 ---
 
@@ -69,7 +70,7 @@ This project implements a **solar-powered environmental monitoring system** usin
 
 These images show the recorded sensor data over time.
 
-![Sensor Dashboard 1](<img width="1388" height="598" alt="Image_3-17-26_at_10 02_AM" src="https://github.com/user-attachments/assets/3a1a93dd-187e-4d72-beb8-87599966beb7" />)
+![Sensor Dashboard 1](Image_3-17-26_at_10.02_AM.webp)
 
 
 ---
